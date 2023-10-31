@@ -1,3 +1,4 @@
+[![An image of @rishabh2503's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishabh2503)](https://holopin.io/@rishabh2503)
 ![logo](https://github.com/Rishabh2503/Rishabh2503/blob/0341b8f8d74ee94b3e17fb1704b504cce8de40e1/Black%20Technology%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Rishabh Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
