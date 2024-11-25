@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh2503&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh2503" /> </p>
 <img align="right" alt="Coding" width="400" height="350" src="./Untitled design (2).png">
-- 🔭 I’m currently working on **QuizzyWiz**
+- 🔭 I’m currently working on **Finaure.com**
 
 - 🌱 I’m currently learning **Next.js**
 
